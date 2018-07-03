@@ -1,24 +1,13 @@
-# Pizzeria Veritas
- 
-// **Address:** 156 St Paul St.
-
-// **Phone number:** 802-489-5644
- 
-// **Hours:** 5:00pm - 10:00pmWD
-
-// Fresh mozzerella made daily!
-
-// Ask Brian for the 'off menu' items
-
 
 {
     "name": "Pizzeria Verita",
-    "id": pizzeria-verita,
+    "id": "pizzeria-verita",
     "address": "156 Saint Paul Street",
     "phone-number": "(802)-489-5644",
-    "hours": "5:00pm-10:00pm"
+    "hours": "5:00pm-10:00pm",
     "notes": [
       "Fresh mozzerila made daily!",
       "Ask Brian for the 'off menu' items!"
     ]
   }
+  
